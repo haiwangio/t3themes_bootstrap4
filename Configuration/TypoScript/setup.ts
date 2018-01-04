@@ -1,4 +1,4 @@
-<INCLUDE_TYPOSCRIPT: source="DIR:EXT:t3themes_bootstrap4/Configuration/TypoScript/Setup/" extensions="ts,txt,typoscript">
+#<INCLUDE_TYPOSCRIPT: source="DIR:EXT:t3themes_bootstrap4/Configuration/TypoScript/Setup/" extensions="ts,txt,typoscript">
 
 #### PAGE
 page = PAGE

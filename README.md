@@ -1,6 +1,6 @@
 # EXT:t3themes_bootstrap4 #
 
-This is a ready to use template for TYPO3. Together with EXT:t3themes you have an execelnt website now!
+This is a ready to use template for TYPO3. Together with EXT:t3cms you have an execelnt website now!
 
 ### General Information ###
 
@@ -10,8 +10,8 @@ This is a ready to use template for TYPO3. Together with EXT:t3themes you have a
 ### How do I get set up? ###
 
 * Install the extension from TER
-* Make sure EXT:t3themes is installed
-* Include static templates and pageTS from t3themes & t3themes_bootstrap4
+* Make sure EXT:t3cms is installed
+* Include static templates and pageTS from t3cms & t3themes_bootstrap4
 
 * Have fun with your page settings and backend layouts. Check out the backend module.
 

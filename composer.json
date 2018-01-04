@@ -2,7 +2,9 @@
 	"name": "salvatoreeckel/t3themes_bootstrap4",
 	"description": "TYPO3 Themes Bootstrap4 Extension for EXT:t3cms",
 	"keywords": [
-		"typo3",
+	    "TYPO3",
+	    "theme",
+	    "extension",
 		"t3themes_bootstrap4"
 	],
 	"type": "typo3-cms-extension",
@@ -17,7 +19,7 @@
 			"role": "Developer"
 		}
 	],
-	"license": "proprietary",
+	"license": "GP-2.0+",
 	"time": "2017-11-21",
 
 	"require": {}

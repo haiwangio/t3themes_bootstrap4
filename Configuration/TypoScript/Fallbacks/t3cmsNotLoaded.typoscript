@@ -4,7 +4,7 @@
 
 [else]
 
-# Preventing throw errormessage when t3cms-viewhelpers are not loaded
+# Preventing throw errormessage when t3cms is not loaded
     page.8 = TEXT
     page.8.value = <div class="hidehelper" style="padding:17px;background-color:yellow;color:black;font-size:110%;">Required Extension "t3cms" is not loaded. Some functionality may not work.</div>
     page.10.layoutRootPaths.10 = EXT:t3themes_bootstrap4/Resources/Private/Layouts/Page/Fallback/

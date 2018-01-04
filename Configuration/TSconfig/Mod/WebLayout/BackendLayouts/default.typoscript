@@ -5,7 +5,7 @@ mod {
     web_layout {
         BackendLayouts {
             bootstrap4default {
-                title = Clean Extended (100% Full Width)
+                title = Clean, hide sidebars
                 config {
                     backend_layout {
                         colCount = 12

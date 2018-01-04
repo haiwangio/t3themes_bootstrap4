@@ -5,7 +5,7 @@ mod {
     web_layout {
         BackendLayouts {
             bootstrap4full {
-                title = Full,  show all columns (100% Full Width)
+                title = Full, show sidebars and all columns
                 config {
                   backend_layout {
                     colCount = 4
