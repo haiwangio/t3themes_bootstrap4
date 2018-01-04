@@ -1,0 +1,6 @@
+# Module configuration
+module.tx_t3themesbootstrap4 {
+    view {
+        layoutRootPaths.0 = EXT:t3themes/Resources/Private/Layouts/
+    }
+}

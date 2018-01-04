@@ -1,0 +1,39 @@
+################################
+#### BACKENDLAYOUT: CLEAN ####
+################################
+mod {
+    web_layout {
+        BackendLayouts {
+            bootstrap4clean {
+                title = Clean (100% Full Width)
+                config {
+                    backend_layout {
+                        colCount = 12
+                        rowCount = 2
+                        rows {
+                            1 {
+                                columns {
+                                    1 {
+                                        name = LLL:EXT:t3themes_bootstrap4/Resources/Private/Language/Backend.xlf:backend_layout.column.normal
+                                        colPos = 0
+                                        colspan = 12
+                                    }
+                                }
+                            }
+                            2 {
+                                columns {
+                                    1 {
+                                        name = LLL:EXT:t3themes_bootstrap4/Resources/Private/Language/Backend.xlf:backend_layout.column.footer1
+                                        colPos = 10
+                                        colspan = 12
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                icon = EXT:t3themes_bootstrap4/Resources/Public/images/BackendLayouts/clean.gif
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": "salvatoreeckel/t3themes_bootstrap4",
+	"description": "TYPO3 Themes Bootstrap4 Extension for EXT:t3cms",
+	"keywords": [
+		"typo3",
+		"t3themes_bootstrap4"
+	],
+	"type": "typo3-cms-extension",
+	"homepage": "",
+	"support": {
+		"email": "salvaracer@gmx.de"
+	},
+	"authors": [
+		{
+			"name": "Salvatore Eckel",
+			"email": "salvaracer@gmx.de",
+			"role": "Developer"
+		}
+	],
+	"license": "proprietary",
+	"time": "2017-11-21",
+
+	"require": {}
+}
