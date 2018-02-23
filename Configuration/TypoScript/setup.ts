@@ -39,11 +39,6 @@ page {
                 includeSpacer = 1
                 as = subnavigation
             }
-            30 = SalvatoreEckel\T3cms\DataProcessing\T3themesConfProcessor
-            30 {
-                fieldName = t3themes_conf
-                as = t3themesConf
-            }
         }
 
         ### VARIABLES
@@ -89,3 +84,9 @@ page {
 		12.value = <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
     }
 }
+
+[userFunc = TYPO3\CMS\Core\Utility\ExtensionManagementUtility::isLoaded('t3cms')]
+page.10.dataProcessing.30 = SalvatoreEckel\T3cms\DataProcessing\T3themesConfProcessor
+page.10.dataProcessing.30.fieldName = t3themes_conf
+page.10.dataProcessing.30.as = t3themesConf
+[global]

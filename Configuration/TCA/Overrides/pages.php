@@ -11,12 +11,12 @@ $extensionKey = 't3themes_bootstrap4';
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::registerPageTSConfigFile(
     $extensionKey,
     'Configuration/TSconfig/Mod/WebLayout/BackendLayouts.txt',
-    'T3themes Bootstrap 4 Theme for TYPO3 CMS - Backend Layouts'
+    'T3themes Bootstrap 4 Theme for EXT:t3cms - Backend Layouts'
 );
 
 // BackendLayouts
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::registerPageTSConfigFile(
     $extensionKey,
     'Configuration/TSconfig/RTE.txt',
-    'T3themes Bootstrap 4 Theme for TYPO3 CMS - CKEditor Configuration'
+    'T3themes Bootstrap 4 Theme for EXT:t3cms - CKEditor Configuration'
 );
