@@ -20,7 +20,9 @@
 		}
 	],
 	"license": "GP-2.0+",
-	"time": "2017-11-21",
+	"time": "2018-02-26",
 
-	"require": {}
+	"require": {
+        "typo3/cms-core": "^8.7 || ^9.0"
+	}
 }
