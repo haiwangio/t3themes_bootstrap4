@@ -4,7 +4,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'TYPO3 Themes - Bootstrap4',
-    'description' => 'TYPO3 Template Theme Integration for EXT:t3cms. You can integrate the "ready-to-use html content" with fluid content, dce, flux, mask, cdeditor or something else.',
+    'description' => 'TYPO3 Template Theme Integration for EXT:t3cms. You can integrate the "ready-to-use html content" with fluid content, dce, flux, mask, ckeditor or something else.',
     'category' => 'distribution',
     'author' => 'Salvatore Eckel',
     'author_email' => 'salvaracer@gmx.de',
@@ -19,6 +19,8 @@ $EM_CONF[$_EXTKEY] = [
             'typo3' => '7.6.18-8.99.99',
         ],
         'conflicts' => [],
-        'suggests' => [],
+        'suggests' => [
+            't3cms' => '2.0.0-2.99.99',
+        ],
     ],
 ];
