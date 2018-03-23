@@ -89,4 +89,9 @@ page {
 page.10.dataProcessing.30 = SalvatoreEckel\T3cms\DataProcessing\T3themesConfProcessor
 page.10.dataProcessing.30.fieldName = t3themes_conf
 page.10.dataProcessing.30.as = t3themesConf
+page.10.dataProcessing.30.rootpageId = TEXT
+page.10.dataProcessing.30.rootpageId {
+    insertData = 1
+    data = leveluid : 0
+}
 [global]
