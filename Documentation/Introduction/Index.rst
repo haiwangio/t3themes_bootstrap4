@@ -15,11 +15,11 @@ This extension is a sitepackage that integrates an existing HTML/CSS template.
 
 .. _Documentation: https://docs.typo3.org/typo3cms/extensions/t3cms/
 
-The integrated Theme is Bootstrap4_ by HTML5UP.
+The integrated Theme is Bootstrap4_ by by Blackrock Digital.
 
 .. _Bootstrap4: https://blackrockdigital.github.io/startbootstrap-landing-page/
 
-.. figure:: ../Images/screen1.png
+.. figure:: ../Images/screen.png
 	:width: 600px
 	:alt: Homepage Screenshot
 

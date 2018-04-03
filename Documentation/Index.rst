@@ -24,7 +24,7 @@ TYPO3 Themes - Bootstrap4
 		en
 
 	:Description:
-		HTML5UP Free Template Theme Integration for EXT:t3cms. Brings full styled and configured website. Custom content elements maybe available in this theme.
+		Start Bootstrap - Landing Page by Blackrock Digital Free Template Theme Integration for EXT:t3cms. Brings full styled and configured website. Custom content elements maybe available in this theme.
 
 	:Keywords:
 		bootstrap4,startbootstrap,typo3,themes,html,css
