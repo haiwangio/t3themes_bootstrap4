@@ -68,13 +68,13 @@
             </trans-unit>
 
             <trans-unit id="backend_layout.column.footer1">
-                <source>Footer: Left</source>
+                <source>Footer 1</source>
             </trans-unit>
             <trans-unit id="backend_layout.column.footer2">
-                <source>Footer: Center</source>
+                <source>Footer 2</source>
             </trans-unit>
             <trans-unit id="backend_layout.column.footer3">
-                <source>Footer: Right</source>
+                <source>Footer 3</source>
             </trans-unit>
 
         </body>
