@@ -5,7 +5,7 @@ This is a ready to use template for TYPO3. Together with EXT:t3cms you have an e
 ### General Information ###
 
 * t3themes_bootstrap4
-* v1.0.2
+* v1.0.3
 * Resources/Public : https://github.com/BlackrockDigital/startbootstrap-landing-page
 
 ### How do I get set up? ###
