@@ -13,7 +13,7 @@ $EM_CONF[$_EXTKEY] = [
     'uploadfolder' => '0',
     'createDirs' => '',
     'clearCacheOnLoad' => 0,
-    'version' => '1.0.3',
+    'version' => '1.1.0',
     'constraints' => [
         'depends' => [
             'typo3' => '7.6.18-9.99.99',
@@ -21,7 +21,7 @@ $EM_CONF[$_EXTKEY] = [
         ],
         'conflicts' => [],
         'suggests' => [
-            't3content_bootstrap4' => '2.2.0'
+            't3content_bootstrap4' => '2.3.0'
         ],
     ],
 ];
